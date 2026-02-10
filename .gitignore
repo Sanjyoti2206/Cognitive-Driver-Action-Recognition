@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Dataset (VERY IMPORTANT)
+training_set/
+dataset/
+Final Code/training_set/
+
+# Models
+*.h5
+*.pt
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
